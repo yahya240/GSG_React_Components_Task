@@ -1,0 +1,11 @@
+/* images */
+.golden-image-container{
+    position: relative;
+    overflow: hidden;
+    margin-bottom: -30px;
+}
+
+.golden-image-container .golden-img1{
+    position: absolute;
+    right: 2px;
+}

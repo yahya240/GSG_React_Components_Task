@@ -1,0 +1,28 @@
+
+.review-card{
+    width: 732px;
+    height: 385px;
+
+    background: rgba(16, 20, 24, 0.7);
+    margin: 2rem auto;
+    padding: 2rem 3rem;
+}
+
+.review-header{
+    display: grid;
+    grid-template-columns: 10rem 1fr;
+    justify-content: center;
+    align-items: center;
+}
+
+.review-content p{
+    max-width: 596px;
+    margin: 2rem 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.13em;
+    text-transform: capitalize;
+
+    color: #FFFFFC;
+}

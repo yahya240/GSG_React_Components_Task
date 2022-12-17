@@ -1,0 +1,12 @@
+
+/* artice btn */
+
+.article-btn{
+    width: 13.5rem;
+    height: 55px;
+    font-size: 18px;
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #FFFCCC;
+    margin: 1rem 0;
+}

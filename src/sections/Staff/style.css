@@ -1,0 +1,8 @@
+
+.staff-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3rem;
+    margin: 2rem;
+}

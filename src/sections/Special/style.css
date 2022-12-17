@@ -1,0 +1,19 @@
+
+
+/* container */
+.special-container{
+    height: 725px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* cards */
+.special-cards{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 3rem;
+
+    margin-top: 2.5rem;
+}

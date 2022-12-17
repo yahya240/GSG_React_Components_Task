@@ -1,0 +1,41 @@
+
+.booking-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    max-height: 328px;
+}
+
+.booking-section article{
+    text-align: center;
+}
+
+.booking-section article .booking-title{
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFC;
+
+    min-width: 466px;
+
+}
+
+.booking-section article .booking-discount {
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 38px;
+    padding: 1rem;
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #FFCE6D;
+}
+
+

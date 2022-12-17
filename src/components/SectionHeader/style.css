@@ -1,0 +1,28 @@
+
+/* header */
+.section-header{
+    text-align: center;
+}
+
+.section-header h2{
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+
+    text-align: center;
+    letter-spacing: 0.1em;
+
+    color: #FFCE6D;
+}
+
+.section-header h3{
+    font-size: 30px;
+    line-height: 35px;
+    
+    text-transform: capitalize;
+    
+    color: #FFFFFC;
+    margin: 1rem 0;
+}

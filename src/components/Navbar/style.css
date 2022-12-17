@@ -1,0 +1,48 @@
+/* navbar */
+
+.home-nav{
+    display: flex;
+    background-color: #101418;
+    color: #FFFFCC;
+}
+
+.home-nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 25rem;
+    margin: 0 2rem;
+}
+
+.home-nav ul li a{
+    color: #FFFFCC;
+}
+
+/* button */
+
+.nab-btn{
+    width: 17rem;
+    background-color: #A08040;
+    color: #fff;
+    font-size: 21px;
+    position: relative;
+}
+
+.nab-btn::after{
+    content: '';
+    width: 35px;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    left: 30px;
+    background-color: #fff;
+}
+.nab-btn::before{
+    content: '';
+    width: 35px;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    background-color: #fff;
+}

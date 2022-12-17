@@ -1,0 +1,33 @@
+/* 
+.about-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 8rem 0;
+}
+
+.about-container .about-article h2{
+    color: #FFCE6D;
+    font-weight: 700;
+    font-size: 36px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.about-container .about-article h4{
+    font-size: 30px;
+    color: #FFFFFC;
+    text-transform: capitalize;
+}
+
+.about-container .about-article p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.13em;
+    text-transform: capitalize;
+    color: #FFFFFC;
+    margin: 3rem 0;
+    max-width: 568px;
+} */

@@ -1,0 +1,39 @@
+
+.menu-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.7rem;
+}
+
+.menu-item .menu-text h4{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+.menu-item .menu-text p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #FFFFFF;
+}
+
+.line{
+    width: 123px;
+    height: 0px;
+
+    border: 1px solid #FFCE6D;
+}
+
+.menu-item h2{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: right;
+
+    color: #FFCE6D;
+}

@@ -1,0 +1,32 @@
+
+/* staff-item */
+
+.staff-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.staff-item .staff-info h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #FFCE6D;
+}
+
+.staff-item .staff-info h4{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117.3%;
+    /* or 21px */
+    
+    text-align: center;
+    text-transform: capitalize;
+    
+    color: #FFFFFC;
+}
