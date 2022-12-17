@@ -1,7 +1,10 @@
 
 .main-section{
     width: 100%;
-    /* height: 763px; */
-    background: url('../../assets/images/sections-image.png') no-repeat center #eee;
+    background-image: url('../../assets/images/sections-image.png');
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #fff;
 }

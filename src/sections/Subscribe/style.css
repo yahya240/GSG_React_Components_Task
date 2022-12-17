@@ -1,0 +1,42 @@
+
+.subscribe-section{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 3rem;
+    margin: 1rem;
+}
+
+.subscribe-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.subscribe-text h3{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: capitalize;
+    
+    color: #FFFFFC;
+}
+
+.subscribe-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.subscribe-input input{
+    width: 407px;
+    height: 55px;
+
+    background: transparent;
+    border: 1px solid #FFFFCC;
+}
+
+.subscribe-input input::placeholder{
+    padding-left: 1.5rem;
+}

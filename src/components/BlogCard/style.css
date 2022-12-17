@@ -1,0 +1,35 @@
+.blog-card{
+    width: 410px;
+    background: rgba(16, 20, 24, 0.7);
+}
+
+.blog-card img{
+    width: 410px;
+}
+
+.blog-card .blog-content{
+    display: flex;
+    flex-direction:column;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 2rem ;
+    
+}
+.blog-card .blog-content h4{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 117.3%;
+
+    text-transform: capitalize;
+
+    color: #FFFFFC;
+}
+.blog-card .blog-content p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155.3%;
+
+    text-transform: capitalize;
+
+    color: #FFFFFC;
+}

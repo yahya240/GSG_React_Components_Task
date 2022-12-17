@@ -9,4 +9,14 @@
     color: #fff;
     border: 2px solid #FFFCCC;
     margin: 1rem 0;
+    cursor: pointer;
+}
+
+.trans-btn{
+    background-color: transparent;
+    border: none;
+    margin-top: 1rem;
+    border-bottom: 1px solid #FFCE6D;
+    color: #fff;
+    cursor: pointer;
 }

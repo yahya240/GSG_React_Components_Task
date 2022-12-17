@@ -1,6 +1,6 @@
 import './style.css'
 import MainContainer from '../../components/MainContainer'
-import {About,Footer,Special,Cooking,HomeSection,Menu,Booking,Staff,Reviews} from '../../sections'
+import {About,Footer,Special,Cooking,HomeSection,Menu,Booking,Staff,Reviews,Subscribe,Contacts,Blogs} from '../../sections'
 
 
 function Home() {
@@ -15,6 +15,9 @@ function Home() {
         <Cooking />
         <Staff />
         <Reviews />
+        <Blogs />
+        <Contacts />
+        <Subscribe />
         <Footer />
       </MainContainer>
     </>

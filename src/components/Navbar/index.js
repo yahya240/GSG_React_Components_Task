@@ -1,11 +1,11 @@
-import logo from '../../assets/images/Logo.png'
+import Logo from '../Logo'
 import searchIcon from '../../assets/images/search-icon.png'
 import './style.css'
 
 function Navbar() {
   return (
     <nav className='home-nav'>
-        <img className='logo' src={logo} alt='logo'></img>
+        <Logo />
         <ul>
           <li>Home</li>
           <li><a href='#about'>About</a></li>
